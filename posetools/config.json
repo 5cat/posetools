@@ -1,0 +1,5 @@
+{
+	"backend": "tensorflow",
+	"imagebackend": "cv2",
+	"floatx": "float32"
+}
